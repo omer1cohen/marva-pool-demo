@@ -1,2 +1,2 @@
-:HL["/marva-pool-demo/_next/static/chunks/41irin_pb-piu.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"CVJd1wrtkKNgtFRH7TVkA"}
+:HL["/marva-pool-demo/_next/static/chunks/12yhtyorobvpf.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"fdhxERCwWsw5CI_HfscWl"}
