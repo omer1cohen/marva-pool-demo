@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[69684,["/marva-pool-demo/_next/static/chunks/1d4h-sglyo8ft.js","/marva-pool-demo/_next/static/chunks/14mumt5_n0xhi.js","/marva-pool-demo/_next/static/chunks/1klwayprhb7bk.js"],"default"]
+2:I[69684,["/marva-pool-demo/_next/static/chunks/1d4h-sglyo8ft.js","/marva-pool-demo/_next/static/chunks/14mumt5_n0xhi.js","/marva-pool-demo/_next/static/chunks/2tmw5of3flu6u.js"],"default"]
 3:I[97367,["/marva-pool-demo/_next/static/chunks/1d4h-sglyo8ft.js","/marva-pool-demo/_next/static/chunks/14mumt5_n0xhi.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","script","script-0",{"src":"/marva-pool-demo/_next/static/chunks/1klwayprhb7bk.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"oTJhw0g8O6Ox371PckK_f"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","script","script-0",{"src":"/marva-pool-demo/_next/static/chunks/2tmw5of3flu6u.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"h_stUZ8EqmKqQu89gaFCG"}
 5:null
