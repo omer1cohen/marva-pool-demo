@@ -2,4 +2,4 @@
 2:I[39756,["/marva-pool-demo/_next/static/chunks/1d4h-sglyo8ft.js","/marva-pool-demo/_next/static/chunks/14mumt5_n0xhi.js"],"default"]
 3:I[37457,["/marva-pool-demo/_next/static/chunks/1d4h-sglyo8ft.js","/marva-pool-demo/_next/static/chunks/14mumt5_n0xhi.js"],"default"]
 4:[]
-0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"8PxG08mNhFlT8ixSqidWC"}
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"ovIXqFz75cE7_XqroOkee"}
